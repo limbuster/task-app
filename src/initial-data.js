@@ -1,8 +1,8 @@
 const initialData = {
   tasks: {
-    "task-1": { id: "task-1", content: "Take out the garbage" },
-    "task-2": { id: "task-2", content: "Watch my favourite show" },
-    "task-3": { id: "task-3", content: "Charge my phone" },
+    "task-1": { id: "task-1", content: "Learn Next.js" },
+    "task-2": { id: "task-2", content: "Master React" },
+    "task-3": { id: "task-3", content: "Conquer the world" },
     "task-4": { id: "task-4", content: "Cook dinner" },
   },
   columns: {
